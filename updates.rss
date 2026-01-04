@@ -3,5 +3,11 @@
         <title>Kristy's Site Updates</title>
         <link>kristy-fournier.github.io</link>
         <description>Updates to the website and personal projects</description>
+        <item>
+            <title>Complete Redo of the Site</title>
+            <link>http://kristy-fournier.github.io/</link>
+            <description>Attempting to make it slightly more professional than it was</description>
+            <pubdate>Sun, 4 Jan 2026 12:41:00 EST</pubdate>
+        </item>
     </channel>
 </rss>
